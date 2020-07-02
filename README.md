@@ -6,3 +6,5 @@ Questions from leetcode for practice topicwise and daywise :)
 #DAY 2 - MATHS
 
 #DAY 3 - HASHING
+
+#DAY 4 - LINKED LIST(Easy)
