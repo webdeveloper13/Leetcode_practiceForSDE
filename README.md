@@ -7,4 +7,5 @@ Questions from leetcode for practice topicwise and daywise :)
 
 #DAY 3 - HASHING
 
-#DAY 4 - LINKED LIST(Easy)
+#DAY 4 - Greedy Algo (all important from GFG)
+
