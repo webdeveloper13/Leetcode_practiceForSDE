@@ -9,3 +9,5 @@ Questions from leetcode for practice topicwise and daywise :)
 
 #DAY 4 - Greedy Algo (all important from GFG)
 
+#DAY 5 - Bit Magic
+
