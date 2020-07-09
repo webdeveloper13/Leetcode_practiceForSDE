@@ -11,4 +11,4 @@ Questions from leetcode for practice topicwise and daywise :)
 
 #DAY 5 - Bit Magic
 
-#Day 6 - Graphs(Still few questions left)
+#Day 6 - Graphs(all important done)
