@@ -36,7 +36,7 @@ The input prerequisites is a graph represented by a list of edges, not adjacency
 You may assume that there are no duplicate edges in the input prerequisites.
 */
 auto i1 = []()
-{
+{                                                                 cjdddffkkddddd
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
         cout.tie(NULL);
