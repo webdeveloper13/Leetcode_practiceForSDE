@@ -23,7 +23,7 @@ public:
                     adj[times[i][0]][times[i][1]] = times[i][2];
             }
             
-            /*for(int i=1;i<N+1;i++)
+            for(int i=1;i<N+1;i++)
             {
                     for(int j=1;j<N+1;j++)
                     {
@@ -33,7 +33,7 @@ public:
                     cout<<endl;
             }
             
-            return 0;*/
+            
             
             vector<bool> setPro(N+1,false);
             vector<int>  dist(N+1,INT_MAX);
@@ -59,7 +59,7 @@ public:
             int ans=INT_MIN;
             for(int i=1;i<dist.size();i++)
             {
-                    //cout<<dist[i]<<" ";
+                    cout<<dist[i]<<" ";
                     if(dist[i]==INT_MAX)
                             return -1;
                             

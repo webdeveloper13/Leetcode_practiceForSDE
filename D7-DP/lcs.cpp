@@ -42,6 +42,13 @@ when any of the string has zero characters then the answer will be zero(OBVIOUSL
 so after that if we have a matching character we fill that dp value with 1+left diagonal element
 else we take max of left and up
 */
+auto i1 = []()
+{
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
+        return 0;
+}();
 class Solution {
 public:
     int longestCommonSubsequence(string text1, string text2) {
