@@ -17,4 +17,4 @@ Questions from leetcode,GFG,interviewBit for practice topicwise and daywise :)
 
 # Day 6 - Graphs(all important done)
 
-# Day 7 - Dynamic Programming(few important still left)
+# Day 7 - Dynamic Programming(all important done)
