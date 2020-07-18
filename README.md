@@ -18,3 +18,5 @@ Questions from leetcode,GFG,interviewBit for practice topicwise and daywise :)
 # Day 6 - Graphs(all important done)
 
 # Day 7 - Dynamic Programming(all important done)
+
+# Day 8 - Binary Trees and BSTs (just started many more to come)
